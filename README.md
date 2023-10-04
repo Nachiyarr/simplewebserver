@@ -56,6 +56,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+
 ![ws02](https://github.com/Nachiyarr/simplewebserver/assets/113497340/67ce29cc-b4a5-4c6e-a956-443a7fb950bd)
 ![wso1](https://github.com/Nachiyarr/simplewebserver/assets/113497340/f4331d05-6031-404d-95ca-52fc8312adf3)
 
