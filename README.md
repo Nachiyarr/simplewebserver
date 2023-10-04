@@ -1,4 +1,3 @@
-![wso1](https://github.com/Nachiyarr/simplewebserver/assets/113497340/b48d0453-3641-4356-8105-3caa9457f965)# Developing a Simple Webserver
 ## AIM:
 To develop a simple webserver to serve html pages.
 
